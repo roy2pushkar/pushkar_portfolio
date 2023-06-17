@@ -1,21 +1,11 @@
 -- import: fastn
 
--- fastn.package: roy2pushkar.github.io/pushkar_portfolio
-favicon: /-/roy2pushkar.github.io/pushkar_portfolio/favicon.ico
+-- fastn.package: ayushsoni1010.me
 
+-- fastn.dependency: fifthtry.github.io/doc-site as ds
+-- fastn.dependency: fifthtry.github.io/bling as bling
+-- fastn.dependency: ayushsoni1010.github.io/ui-packages as ui-packages
 
--- fastn.dependency: fastn-community.github.io/doc-site as ds
--- fastn.dependency: fastn-community.github.io/footer
--- fastn.dependency: ayushsoni1010.github.io/ui-packages as package
-
+-- fastn.auto-import: bling/chat as chat
 -- fastn.auto-import: ds
--- fastn.auto-import: package
--- fastn.auto-import: roy2pushkar.github.io/pushkar_portfolio/FASTN/my-ds
--- fastn.auto-import: roy2pushkar.github.io/pushkar_portfolio/assets
-
-
--- fastn.sitemap:
-
-# Home Page: /
-
-- Page with Right Sidebar: /sidebar/
+-- fastn.auto-import: ui-packages

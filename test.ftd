@@ -1,0 +1,10 @@
+--import: package/header as navbar
+--import: package/base-layout as layout
+--import: package/lib as lib
+--import: package/button as button
+--import: package/social-button social
+
+--layout.base-layout
+-- navbar.header
+logo: $assets.files.images.logo.svg
+logoURL: /portfol
